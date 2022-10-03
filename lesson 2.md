@@ -4,5 +4,5 @@
 
 * git status - отображает статус git 
 
-* __git commit --amend -m "Сообщение"__ - переименовать коммит
+* git log -
 
